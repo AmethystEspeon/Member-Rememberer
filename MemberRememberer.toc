@@ -1,0 +1,10 @@
+## Interface: 90205
+## Title: Member Rememberer
+## Notes: Allows personal rating of players to help determine if you want to reinvite the player in a later activity. Currently works in Mythic+
+## Author: Amethyst Espeon (Dialya-Bleeding Hollow)
+## Version: 1.0.1
+## OptionalDeps: RaiderIO   
+## SavedVariables: MemberRemembererPlayerDB
+
+MemberRememberer.lua
+MemberRemembererTriggers.lua
